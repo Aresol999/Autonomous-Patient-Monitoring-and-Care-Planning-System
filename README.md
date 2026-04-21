@@ -128,7 +128,7 @@ Communication:
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 Arnav Kadyan  
 B.Tech CSE, VIT Vellore  
