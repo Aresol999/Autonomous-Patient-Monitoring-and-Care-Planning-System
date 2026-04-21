@@ -75,9 +75,6 @@ Communication:
 4. Run system:
    python run_all.py
 
-5. (Optional) Run dashboard:
-   streamlit run dashboard.py
-
 ---
 
 ## Example Output
