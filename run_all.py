@@ -27,11 +27,6 @@ try:
     run("main.py")
     time.sleep(2)
 
-    subprocess.Popen([
-        "streamlit", "run",
-        os.path.join(os.getcwd(), "dashboard.py")
-    ])
-
     while True:
         time.sleep(1)
 
